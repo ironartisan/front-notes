@@ -34,8 +34,6 @@ Notes for learning TypeScript.
 
 
 
-                        |            |                                                              |
-
 ## **练习题**
 
 - [Level TypeScript](https://type-level-typescript.com/)
