@@ -21,7 +21,6 @@ Notes for learning TypeScript.
 | [TS Babel]( 005.TS%20Babel.md)| 2023-1-7   |                                                     |
 | [TS面向对象](006.TS%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.md) | 2023-1-7   |                                                     |
 | [贪吃蛇练习](https://github.com/ironartisan/front-notes/tree/master/TypeScript/code/chapt002) | 2023-1-9   |                                                     |
-|                                                              |              |                                                     |
 
 
 
