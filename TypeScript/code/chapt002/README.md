@@ -76,7 +76,7 @@ npm run build
 
 - node 安装版本太高，`报错error:03000086:digital envelope routines::initialization error`
   
-解决方法：在命令行修改环境变量：
+- 解决方法：在命令行修改环境变量：
   ```html
     $env:NODE_OPTIONS="--openssl-legacy-provider" 
   ```
@@ -84,7 +84,7 @@ npm run build
 
 
 - 端口被占用，修改默认端口
-解决方法：再webpack.config.js中添加配置
+- 解决方法：再webpack.config.js中添加配置
 ```javascript
 // 设置自定义端口
 devServer: {
