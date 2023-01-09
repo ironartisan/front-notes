@@ -49,7 +49,7 @@
 
 |                 **学习内容**                 |  **笔记**   | 更新时间 |  备注  |
 | :--------------------------------------: | :-------: | ---- | :--: |
-| [TypeScript:尚硅谷TypeScript教程（李立超老师TS新课](https://www.bilibili.com/video/BV1Xy4y1v7S2/) | [notes](https://ironartisan.github.io/front-notes/TypeScript/) |      |      |
+| [TypeScript:尚硅谷TypeScript教程（李立超老师TS新课](https://www.bilibili.com/video/BV1Xy4y1v7S2/) | [notes](https://ironartisan.github.io/front-notes/TypeScript/) |   2023.1.9   |      |
 | [React:尚硅谷React教程（2022加更，B站超火react教程）](https://www.bilibili.com/video/BV1wy4y1D7JT) |           |      |      |
 | [Vue全家桶:尚硅谷Vue2.0+Vue3.0全套教程丨vuejs从入门到精通](https://www.bilibili.com/video/BV1Zy4y1K7SH) |           |      |      |
 | [Vue3新特性:尚硅谷Vue.JS教程快速入门到项目实战（Vue3/VueJS技术详解](https://www.bilibili.com/video/BV1ra4y1H7ih) |           |      |      |
