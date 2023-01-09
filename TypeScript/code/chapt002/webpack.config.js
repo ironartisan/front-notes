@@ -73,7 +73,6 @@ module.exports = {
                 use: [
                     "style-loader",
                     "css-loader",
-
                     // 引入postcss
                     // 类似于babel，把css语法转换兼容旧版浏览器的语法
                     {
@@ -112,6 +111,8 @@ module.exports = {
     resolve: {
         extensions: ['.ts', '.js']
     },
+    
+    // 设置自定义端口
     devServer: {
         historyApiFallback: true,
         contentBase: './',
