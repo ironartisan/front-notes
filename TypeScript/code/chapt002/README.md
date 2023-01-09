@@ -2,6 +2,10 @@
 
 使用TypeScript + Webpack + Less实现贪吃蛇的例子；
 
+
+## 项目地址
+
+[代码地址](https://github.com/ironartisan/front-notes/tree/master/TypeScript/code/chapt002)
 ### **项目依赖**
 
 TypeScript：
