@@ -49,7 +49,7 @@ npm i
 npm run build
 ```
 
-编译完成后，使用浏览器打开dist目录下的`index.html`即可游玩；
+编译完成后，使用浏览器打开dist目录下的`index.html`；
 
 #### **继续开发**
 
@@ -65,9 +65,32 @@ npm run build
     "start": "webpack serve --open chrome.exe"
   }
 }
+
 ```
 
+### 可能遇到的问题
+
+- node 安装版本太高，`报错error:03000086:digital envelope routines::initialization error`
+  
+解决方法：在命令行修改环境变量：
+  ```html
+    $env:NODE_OPTIONS="--openssl-legacy-provider" 
+  ```
+    然后执行 `npm run start`
+
+
+- 端口被占用，修改默认端口
+解决方法：再webpack.config.js中添加配置
+```javascript
+// 设置自定义端口
+devServer: {
+    historyApiFallback: true,
+    contentBase: './',
+    port: 9091 // <--- Add this line and choose your own port number
+  }
+```
 ### **其他**
+
 
 视频讲解：
 
