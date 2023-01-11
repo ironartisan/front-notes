@@ -12,7 +12,7 @@
 
 |                 **学习内容**                 | **笔记** | 更新时间 |  备注  |
 | :--------------------------------------: | :----: | ---- | :--: |
-| [[HTML5+CSS3:尚硅谷Web前端零基础入门HTML5+CSS3基础教程](https://www.bilibili.com/video/BV1XJ411X7Ud)](https://www.bilibili.com/video/BV1Xy4y1v7S2/) |        |      |      |
+| [[HTML5+CSS3:尚硅谷Web前端零基础入门HTML5+CSS3基础教程](https://www.bilibili.com/video/BV1Xy4y1v7S2/) |        |      |      |
 | [JS核心:尚硅谷JavaScript基础&实战丨JS入门到精通全套完整版](https://www.bilibili.com/video/BV1YW411T7GX/) |        |      |      |
 | [JS高级:尚硅谷JavaScript高级教程(javascript实战进阶)](https://www.bilibili.com/video/BV14s411E7qf) |        |      |      |
 | [jQuery:尚硅谷jQuery教程(jquery从入门到精通)](https://www.bilibili.com/video/BV1Xy4y1v7S2/?vd_source=f6bb620e5bbc65cc41159585074592da) |        |      |      |
