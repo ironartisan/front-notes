@@ -1,3 +1,6 @@
+---
+sort: 22
+---
 # **Promise**
 
 Notes for learning Promise.

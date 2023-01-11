@@ -1,3 +1,6 @@
+---
+sort: 10
+---
 # **JavaScript核心**
 
 Notes for learning JavaScripts.

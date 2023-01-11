@@ -1,3 +1,6 @@
+---
+sort: 30
+---
 # **TypeScript**
 
 Notes for learning TypeScript.
