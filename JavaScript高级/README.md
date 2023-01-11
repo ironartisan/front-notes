@@ -6,7 +6,7 @@ Notes for learning JavaScripts.
 
 ## **参考资源**
 
-- [JS核心:尚硅谷JavaScript基础&实战丨JS入门到精通全套完整版](https://www.bilibili.com/video/BV1YW411T7GX/)
+
 - [JS高级:尚硅谷JavaScript高级教程(javascript实战进阶)](https://www.bilibili.com/video/BV14s411E7qf)
 
 
@@ -15,7 +15,7 @@ Notes for learning JavaScripts.
 
 | **学习内容**                                                 | **更新时间** | **备注**                                            |
 | ------------------ | ------------ | ----------------------------------- |
-| [JS简介]() | 2023-1-10   |                                                     |
+| [JS基础总结](./001.JS%E5%9F%BA%E7%A1%80%E6%80%BB%E7%BB%93.md) | 2023-1-10   |                                                     |
 | [JS基础]() | 2023-1-10   |                                                     |
 | [JS语法]() | 2023-1-10   |                          |
 | [JS对象]() | 2023-1-10   |  |
