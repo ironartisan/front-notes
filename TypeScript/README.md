@@ -1,4 +1,4 @@
-# **TypeScript Learn**
+# **TypeScript**
 
 Notes for learning TypeScript.
 

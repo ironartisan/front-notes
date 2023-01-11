@@ -1,4 +1,4 @@
-# **TypeScript Learn**
+# **Promise**
 
 Notes for learning Promise.
 

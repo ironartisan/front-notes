@@ -1,4 +1,4 @@
-# **TypeScript Learn**
+# **JavaScript高级**
 
 Notes for learning JavaScripts.
 
