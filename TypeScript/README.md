@@ -20,8 +20,8 @@ Notes for learning TypeScript.
 | [TS简介](./001.TS简介.md) | 2023-1-6   |                                                     |
 | [TS类型](./002.TS类型.md) | 2023-1-7   |                                                     |
 | [TS编译选项](./003.TS编译选项.md) | 2023-1-7   |                          |
-| [TS webpack](./004.TS%20webpack.md) | 2023-1-6   |  |
-| [TS Babel](./005.TS%20Babel.md)| 2023-1-7   |                                                     |
+| [TS webpack](./004.TSWebpack.md) | 2023-1-6   |  |
+| [TS Babel](./005.TSBabel.md)| 2023-1-7   |                                                     |
 | [TS面向对象](./006.TS面向对象.md) | 2023-1-7   |                                                     |
 | [贪吃蛇练习](https://github.com/ironartisan/front-notes/tree/master/TypeScript/code/chapt002) | 2023-1-9   |                                                     |
 
