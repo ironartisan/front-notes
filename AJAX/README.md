@@ -1,9 +1,9 @@
 ---
 sort: 9
 ---
-# **Promise**
+# **AJAX**
 
-Notes for learning Promise.
+Notes for learning AJAX.
 
 
 
