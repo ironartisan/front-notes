@@ -9,7 +9,7 @@ Notes for learning AJAX.
 
 ## **参考资源**
 
-- [Promise教程从入门到精通](https://www.bilibili.com/video/BV1GA411x7z1?p=2&spm_id_from=pageDriver&vd_source=f6bb620e5bbc65cc41159585074592da)
+- [AJAX:【尚硅谷】3小时Ajax入门到精通](https://www.bilibili.com/video/BV1YW411T7yy)
 
 
 
@@ -17,11 +17,10 @@ Notes for learning AJAX.
 
 | **学习内容**                                                 | **更新时间** | **备注**                                            |
 | ------------------ | ------------ | ----------------------------------- |
-| [介绍与基本使用]() | 2023-1-6   |                                                     |
-| [Promise的API]() | 2023-1-7   |                                                     |
-| [Promise 中的几个关键问题]() | 2023-1-7   |                          |
-| [自定义封装]() | 2023-1-6   |  |
-| [TS async和await]()| 2023-1-7   |                                                     |
+| [AJAX介绍](./001.AJAX介绍.md) | 2023-1-18   |                                                     |
+| [原生AJAX](./002.原生AJAX.md) | 2023-1-18   |                                                     |
+| [常见三种AJAX请求方式](./003.常见三种AJAX请求方式.md) | 2023-1-18   |                          |
+| [跨域与解决](./004.跨域与解决.md) | 2023-1-18   |  |
 
 
 
